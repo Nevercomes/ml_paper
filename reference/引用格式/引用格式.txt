@@ -1,0 +1,54 @@
+[1] 聂林波 , 刘孟仁.软件缺陷分类的研究.计算机应用研究.1001- 3695(2004)06- 0084- 03
+
+[2] Wang Q，Wu SJ，Li MS．Software defect prediction．Ruan Jian Xue Bao／Joumal of Software，2008，19(7)：1565—1580(in Chinese with English abstract)．httg：／／www．jos．org．on／1000·9825／19／1565．htm
+[3] Hall T，Beecham S，Bowes D，Gray D，Counsell S．A systematic literature review on fault prediction performance in software
+engineering．IEEE Trails．on Software Engineering，2012，38(6)：1276—1304[doi：10．1 109／TSE．201 1．103]
+[4]陈翔，顾庆，刘望舒，刘树龙，倪超．静态软件缺陷预测方法研究．软件学报，2016，27(1)：1—25．http：／／www．jos．ors．en／1000-9825/923。htm
+[5]Cortes C，Vapnik V.Support-vector networks[J].Machine
+Learning，1995，20（3）：273-297.
+[6]Pearson K． Principal components analysis［J］ ． The London， Edinburgh， and Dublin Philosophical Magazine and
+Journal of Science， 1901，6( 2) : 559．
+[7]姜慧研，宗茂，刘相莹.基于ACO-SVM的软件缺陷预测模型.计算机学报.10.3724/ SP.J.1016 .2011.01148
+[8] KAYNAＲ D，LYNCH N，SEGALA Ｒ，et al． The theory of timed I /O
+automata［M］．［S.l.］: Morgan ＆ Claypool Publishers，2005．
+[9] 吴晓萍，赵学靖，乔辉，刘东梅，王志.基于LASSO-SVM的软件缺陷预测模型研究.计算机应用研究.doi: 10． 3969 /j． issn． 1001-3695． 2013． 09． 047
+[10] GUＲEVICH Y． Sequential abstract state machines capture sequential
+algorithms［J］． ACM Trans on Computational Logic，2000，1( 1) :
+77-111．
+[11] 甘露，臧洌，李航. 基于DA-SVM的软件缺陷预测模型.计算机与现代化10． 3969 /j． issn． 1006-2475． 2017． 02． 007
+【12】Fisher Ｒ A． The use of multiple measurements in taxonomic problems［J］ ． Annals of Eugenics， 1936， 7 ( 2) : 179-
+188．
+【13】Vincent P， Larochelle H， Bengio Y， et al． Extracting and
+composing robust features with denoising autoencoders
+［C］ / / Proceedings of the 25th ACM International Conference on Machine Learning． 2008: 1096-1103．
+【14】Wang Hao， Shi Xingjian， Yeung Dit-yan． Ｒelational
+stacked denoising autoencoder for tag recommendation
+［C］ / / Proceedings of the 29th AAAI Conference on Artificial Intelligence． 2015: 3052-3058．
+【15】张强．局部线性嵌入算法的改进及其在人脸识别中的应用［D］ ．重庆: 重庆理工大学，2017．
+【16】王玉红，范菁，雷敏，孙汇中.基于NPE-SVM的软件缺陷预测模型10．16836/j．cnki．jcuit．2018．03．011
+【17】任胜兵，廖湘荡.基于代价敏感支持向量机的软件缺陷预测研究.计算机工程与科学.１０．３９６９／ｊ．ｉｓｓｎ．１００７－１３０Ｘ．２０１８．１０．０１０
+【18】程元启，姚淑珍，谭火彬，李丹丹.基于模糊支持向量机的软件缺陷预测技术.计算机工程与设计１０．１６２０８／ｊ．ｉｓｓｎ１０００－７０２４．２０１８．０９．０１０
+【19】ＭｉｔｃｈｅｌｌＭ．Ａｎｉｎｔｒｏｄｕｃｔｉｏｎｔｏ ｇｅｎｅｔｉｃａｌｇｏｒｉｔｈｍｓ［Ｍ］．
+Ｃａｍｂｒｉｄｇｅ：ＭＩＴＰｒｅｓｓ，１９９８
+【20】ＬｉｎＣＦ，ＷａｎｇＳＤ．Ｆｕｚｚｙｓｕｐｐｏｒｔｖｅｃｔｏｒｍａｃｈｉｎｅｓ ［Ｊ］．ＩＥＥＥ
+ＴｒａｎｓａｃｔｉｏｎｓｏｎＮｅｕｒａｌＮｅｔｗｏｒｋｓ，２００２，１３ （２）：４６４－４７１．
+[21] 郭平.软件可靠性工程中的计算智能方法[M].北京：科学出版社，2012.
+[22] KENNEDY J． Particle swarm optimization［M］ / / Encyclopedia of Machine Learning． Berlin: Springer， 2011: 760 － 766
+[23] 朱朝阳，陈相舟，王志宏，张信明.基于粒子群优化 SVM 的面向对象软件缺陷预测模型.计算机应用.ISSN 1001-9081
+[24] ZHANG Fei. Software defect prediction based on improved PSO-ISVM algorithm. Computer Engineering and Applications, 2016, 52（11）：17-21.
+[25] 姜慧研，宗 茂，刘相莹.基于 ACO-SVM 的软件缺陷预测模型的研究.计算机学报.10.3724/SP.J.1016 .2011.01148
+[26] M. Dorigo, L.M. Gambardella, Ant Colony System : A Cooperative Learning Approach to the Traveling Salesman Problem, IEEE Transactions on Evolutionary Computation, 1997, 1(1), 53-66.
+[27] 王 涛，李伟华，刘尊，史豪斌.基于支持向量机的软件缺陷预测模型.
+[28] Lyu M ichael R.Handbook of S oftw are Reliability Engineering .New York :IEEE C om puter Society Pres s and M cGrawH ill Book C om pany , 1996
+[29] Khos hgoftaar Taghi M , S eliya Naeen .T ree-bas ed s oftw are
+quality estimation models for fau lt prediction// Proceedings of
+the 8th In ternational S ymposium on Softw are M etrics.
+W as hington , DC , USA , 2002 :123-128
+[30] S tich Timothy Janes, S poerre J ulie K , Velasco T om as .The
+application of artificial neural netw ork s to m onitoring and
+con trol of an induction hardening process.Jou rnal of Indu strial Technology , 2000 , 16(1):1-11
+[31] Ohls son Niclas, Alberg Hans .P redicting fau lt-p ron e softw are modules in telephone sw itch es.IEEE Transactions on
+Software E ngineering , 1996 , 22(12):886-894
+[32] Khos hgoftaar Taghi M , Seliya Naeem .S oftw are quantity
+clas sification m odeling using the SP RINT decision tree algorithm// Proceeding s of the 14th IEEE International C onferen ce on Tools w ith Artificial Intelligence .Washington , DC ,
+US A , 2002 :365-367
